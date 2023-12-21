@@ -1,6 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const cors = reuqire('cors');
+const cors = require('cors');
 
 const WishlistRouter = require("./routes/wishlist.router");
 const authRouter = require("./routes/auth.router");
