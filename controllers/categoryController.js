@@ -1,4 +1,4 @@
-
+const Category = require("../model/category.model");
 
 const categoryHandler = async (req,res)=>{
     try{
